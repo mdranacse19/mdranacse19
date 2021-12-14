@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently i'm working ##### VueJS && Laravel
-Exprience with PHP, LARAVEL, Codeigniter, Vue JS, JavaScript, Node JS, Python, Django, Bootstrap, API, JAVA, MySQL
+Currently i'm working **VueJS && Laravel**, Exprience with PHP, LARAVEL, Codeigniter, Vue JS, JavaScript, Node JS, Python, Django, Bootstrap, API, JAVA, MySQL
 
 ### About Me!
 Software application developer having 3.5+year of hands on experience in LARAVEL Framework, Raw PHP, Vue JS, Database
