@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently i'm working **VueJS && Laravel**
+Currently i'm working as a **Full Stack Developer**
 
 ### About Me!
 Software application developer having 3.5+year of hands on experience in LARAVEL Framework, Raw PHP, Vue JS, Database
